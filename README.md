@@ -3,5 +3,5 @@
 ### Project Images
 
 #### Home Page
-<img src="./project Images/LoginUser.jpg" alt="Logo" >
+<img src="./project Images/LoginUser.jpg" >
 
